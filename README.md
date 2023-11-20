@@ -11,9 +11,7 @@
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="CSS3" width="36" height="36" max-width="100">
-<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/39eb60f1-d0f3-4747-9e4a-79c1e006d2d3 alt="SASS" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/8f52330a-a903-4bb5-a3d5-e3e7e846b2fe alt="HTML%" width="36" height="36" max-width="100">
-<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/5a134eca-945d-40f5-8c45-7a48678133a4 alt="HTML%" width="36" height="36" max-width="100">
  
  
 ### 📫 How to reach me: ...
