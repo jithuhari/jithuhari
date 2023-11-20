@@ -6,7 +6,7 @@
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
 ">Skills</a>
  
-<img src="https://github.com/jithuhari/jithuhari/assets/61175902/92c744b0-3396-49e4-b137-72248475c8eb" alt="Flutter" width="36" height="36" max-width="100">
+<img src="https://github.com/jithuhari/jithuhari/assets/61175902/014e7b32-b02c-4470-b66d-b721e63268fa" alt="Flutter" width="36" height="36" max-width="100">
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
