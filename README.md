@@ -7,7 +7,7 @@
 ">Skills</a>
  
 <img src="https://github.com/jithuhari/jithuhari/assets/61175902/014e7b32-b02c-4470-b66d-b721e63268fa" alt="Flutter" width="36" height="36" max-width="100">
-<img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Dart" width="36" height="36" max-width="100">
+<img src="https://github.com/jithuhari/jithuhari/assets/61175902/c0dbef47-3ff5-4132-aafd-ab35c4c30cc6" alt="Dart" width="36" height="36" max-width="100">
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/44363c78-5fad-4c6c-9ee5-b4fa9daf17bc alt="CSS3" width="36" height="36" max-width="100">
