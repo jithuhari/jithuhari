@@ -6,7 +6,7 @@
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
 ">Skills</a>
  
-<img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/2f81ec8e-482f-478d-9948-1c0d68bd2c8b" alt="TypeScript" width="36" height="36" max-width="100">
+<img src="https://github.com/jithuhari/jithuhari/assets/61175902/92c744b0-3396-49e4-b137-72248475c8eb" alt="Flutter" width="36" height="36" max-width="100">
 <img src =https://github.com/arunnintriva/arunnintriva/assets/68312594/7cf2d08f-1af4-4b0b-b281-54a9ff047a61  alt="JavaScript" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b4167279-ff73-4d8d-9eac-7cc81dc6c220 alt="Angular" width="36" height="36" max-width="100">
 <img src=https://github.com/arunnintriva/arunnintriva/assets/68312594/b9bba5da-c570-46c4-a9fd-514aad263cf8 alt="bootstrap-colored" width="36" height="36" max-width="100">
@@ -29,3 +29,4 @@
 <img src="https://github.com/arunnintriva/arunnintriva/assets/68312594/9d42e0cc-a4a4-4cd8-92c3-712ae92e7540" alt="Instagram" width="35" height="35">
 </a>
 </div>
+
