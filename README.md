@@ -1,7 +1,7 @@
 ### Hi 👋 I am JITHU HARI
  
 - 🌏 I’m from Trivandrum ,India
-- 🌱 I’m currently learning [React](https://react.dev/)
+- 🌱 I’m currently flutter Developer [Flutter](https://flutter.dev/)
  
 <a style="color: blue; text-decoration: none; padding-bottom: 0.3em; border-bottom: 1px solid var(--borderColor-muted, var(--color-border-muted));font-size: 1.5em;
 ">Skills</a>
